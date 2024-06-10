@@ -1,5 +1,5 @@
 # Machine-Learning-and-Neural-Networks-on-Minesweeper
-Machine learning algorithms and neural networks were tested on minesweeper in this project.
+In this project, machine learning algorithms and neural networks were tested on a 4x4 minesweeper game.
 
 Machine learning algorithms that are tested in this project are:
 1. K-Nearest Neighbors
