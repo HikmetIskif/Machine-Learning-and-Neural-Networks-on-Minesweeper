@@ -14,14 +14,14 @@ For each model, 1000 automated game were played using the trained models. The re
 - **Win percentage**: 74.90%
 - **Safe move percentage**: 97.28%
 
-- ### Random Forest
+### Random Forest
 
 - **Games played**: 1000
 - **Games won**: 683
 - **Win percentage**: 68.30%
 - **Safe move percentage**: 96.85%
 
-  ### Support Vector Machines (SVM)
+### Support Vector Machines (SVM)
 
 - **Games played**: 1000
 - **Games won**: 573
